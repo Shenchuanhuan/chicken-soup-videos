@@ -50,7 +50,7 @@
 
 ## 📬 联系我 / Contact
 
-如果你有任何建议或想交流的内容，欢迎通过 [GitHub Issues](https://github.com/你的用户名/你的仓库名/issues) 联系我。
+如果你有任何建议或想交流的内容，欢迎通过 [GitHub Issues](https://github.com/Shenchuanhuan/chicken-soup-videos/issues) 联系我。
 
 ---
 
